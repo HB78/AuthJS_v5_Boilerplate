@@ -31,6 +31,7 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+prisma.txt
 
 # vercel
 .vercel
@@ -38,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# fichiers racines
+routes.ts
+tools*
+schema*
+lib*
+utils*

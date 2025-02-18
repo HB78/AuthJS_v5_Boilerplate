@@ -1,0 +1,9 @@
+import NewPasswordForm from "../../../components/auth/NewPasswordForm";
+
+export default async function Home() {
+  return (
+    <main className="h-screen flex flex-col items-center justify-center">
+      <NewPasswordForm />
+    </main>
+  );
+}
