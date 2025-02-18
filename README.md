@@ -1,6 +1,6 @@
 # Next.js Authentication Boilerplate
 
-<img src="/auth.jpg" alt="Auth JS V5 Banner" width="100%" />
+<img src="./public/images/auth.jpg" alt="Auth JS V5 Banner" width="100%" />
 
 A modern, secure authentication boilerplate built with Next.js 15 and Auth.js v5, featuring email verification, two-factor authentication, and role-based access control.
 
